@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Reach Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 🔗 [LinkedIn][(https://au.linkedin.com/in/ianoon)
 - 🌐 [Personal Website](https://yourwebsite.com)  
 
 ---
