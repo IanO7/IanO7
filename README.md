@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Reach Me
-- 🔗 [LinkedIn][(https://au.linkedin.com/in/ianoon)
+- 🔗 [LinkedIn](https://au.linkedin.com/in/ianoon)
 - 🌐 [My Website](https://iano7.github.io/portfolio/)  
 
 ---
