@@ -16,7 +16,7 @@
 ### 🔧 Projects
 - ☕ *Coffee Robot* – UWA Robotics Club project using UR5 arm
 - ☕ *Food review website* – CITS3403 Group Project using food review app and recommendation algorithms
-  
+- 🩺 *Lung Cancer Risk Prediction* – NTU MH4510 project using machine learning (CatBoost, neural networks) on categorical data to enable affordable prognosis for clinics and patients
 ---
 
 ### 📫 Reach Me
