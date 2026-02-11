@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ian (@IanO7)
 
 📗 **UWA MEng (Automation & Robotics)**   
-🎓 Data Science Graduate (2025)
+🎓 Data Science Graduate (2025) <br>
 🌏 NTU Semester Exchange (2024)
 
 ---
