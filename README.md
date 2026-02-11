@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Ian (@IanO7)
 
-📗 **UWA Undergraduate (2023–2027)**  
-🎓 Majoring in Automation & Robotics Engineering + Data Science  
+📗 **UWA MEng (Automation & Robotics)**   
+🎓 Data Science Graduate (2025)
 🌏 NTU Semester Exchange (2024)
 
 ---
